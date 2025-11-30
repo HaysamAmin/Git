@@ -1,2 +1,3 @@
 this is from new cloned repo 
-add new line from old repo
+add new line from old repo by developer a
+ 
