@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 now this is from new cloned repo  dev b new update
-=======
 this is from new cloned repo 
 add new line from old repo by developer a
  
->>>>>>> 07a23ab4ccf75e08f1c7823ad916392b9df5b7bd
+a totally new file now Notepad have text correction Cool 
